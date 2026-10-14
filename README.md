@@ -21,7 +21,7 @@ Data Analyst with a strong background in Operational Supervision & Quality Contr
 
 ## 🚀 Featured Portfolio Project
 
-### 🎮 [Xbox Ecosystem Strategy Analysis (2020–2025)](https://github.com/YOUR_USERNAME/xbox-ecosystem-analytics)
+### 🎮 [Xbox Ecosystem Strategy Analysis (2020–2025)](https://github.com/Xurm1k/xbox-ecosystem-analytics)
 *An end-to-end analytical study evaluating the impact of Day One Game Pass Ultimate releases on console hardware sales velocity and subscription compounding.*
 
 * **Key Business Finding:** Discovered a **+31.6% pre-order console sales lift** during Day One launch windows while identifying a structural **~1.5M lifetime hardware ceiling**, resulting in a 4-pillar strategic roadmap for executive decision-makers.
