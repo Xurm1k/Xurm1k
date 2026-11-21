@@ -1,15 +1,19 @@
-# Hi there, I'm Alex 👋
+# Hi, I'm Alex 👋
 
-### 👨‍💻 About Me
-Data Analyst with a strong background in Operational Supervision & Quality Control (QA). I combine rigorous data quality logic, process auditing, and business operations with modern Business Intelligence, advanced DAX modeling, and Python automation.
+## Operations, Quality & Analytics
 
-* 🔭 **Core Focus:** End-to-end Power BI report architecture, Star Schema data modeling, DAX performance optimization, and Product/Ecosystem analytics.
-* 💼 **Tech Stack:** Power BI | DAX | Python (Pandas, NumPy) | SQL | Google Apps Script | Git & GitHub
-* 🎯 **Strengths:** Root-cause analysis, operational domain understanding, strict data validation, and clear executive storytelling.
+I’m an Operations and Quality professional with 7+ years of experience in service operations, quality control and team leadership. I’m building on that background through hands-on work in business intelligence, operations analytics and workflow automation.
+
+My focus is connecting operational questions to useful evidence: defining the question, checking data quality, documenting assumptions, and making results clear enough to support a decision.
+
+- **Areas of interest:** Operations Analytics, Customer Operations, Business Intelligence, reporting and process automation
+- **Project tools:** Power BI, DAX, Python, SQL, Google Apps Script, Gemini API, Git and GitHub
+- **AI-assisted development:** Gemini, ChatGPT and Codex for prototyping, analysis, documentation and review. These are development tools; they are not all embedded in the projects as runtime dependencies.
+- **Strengths:** Operational context, QA-minded validation, root-cause analysis and clear communication
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Project Tools
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,28 +25,30 @@ Data Analyst with a strong background in Operational Supervision & Quality Contr
 
 ---
 
-## 🚀 Featured Portfolio Projects
+## 🚀 Portfolio Projects
 
 ### 🎮 [Xbox Ecosystem Strategy Analysis (2020–2025)](https://github.com/Xurm1k/xbox-ecosystem-analytics)
-An end-to-end Python and Power BI project exploring modeled relationships between game-release windows, console sales, and subscription growth. The dataset is synthetic, so its results demonstrate an analytical workflow and strategy questions—not observed market effects.
+A Python and Power BI strategy exercise exploring modeled relationships among game-release windows, console sales and subscription growth. The data is synthetic; the results demonstrate an analytical workflow, not observed market effects.  
 **Tools:** Python, Pandas, NumPy, Power BI, DAX  
 [Read the case study](https://github.com/Xurm1k/xbox-ecosystem-analytics/blob/main/PORTFOLIO_CASE_STUDY.md)
 
 ### 🌙 [Garmin Sleep Signal Explorer](https://github.com/Xurm1k/garmin-sleep-signal-explorer)
-A Python pipeline and reporting workflow for reviewing wearable sleep signals around Garmin awake-stage labels, with explicit parsing and validation rules. The project is exploratory and does not diagnose sleep disorders.
-**Tools:** Python, Garmin Connect data, HTML, PDF  
+An exploratory Python pipeline for reviewing wearable sleep and recovery signals with explicit parsing and validation rules. It does not diagnose sleep disorders or establish clinical risk.  
+**Tools:** Python, Garmin Connect data, HTML, PDF, optional Telegram delivery  
 [Read the case study](https://github.com/Xurm1k/garmin-sleep-signal-explorer/blob/main/PORTFOLIO_CASE_STUDY.md)
 
 ### 🤖 [AI-Assisted Job Application Pipeline](https://github.com/Xurm1k/job-hunt-automation-gemini)
-A Google Workspace workflow that screens labeled job alerts, prepares cover-letter PDFs, logs applications in Sheets, and creates email drafts for human review.
+A personal Google Workspace workflow that reviews job-alert email, records vacancies, and prepares application materials for human review. The case study documents current safety limitations and improvements needed before relying on it with a real mailbox.  
 **Tools:** Google Apps Script, Gemini API, Gmail, Google Drive, Google Sheets  
 [Read the case study](https://github.com/Xurm1k/job-hunt-automation-gemini/blob/main/PORTFOLIO_CASE_STUDY.md)
 
-### 🧭 [Jmail Job Automation Wizard](https://github.com/Xurm1k/Jmail)
-A multilingual browser wizard that guides users through configuring a job-search workflow and generates personalized Google Apps Script code.
-**Tools:** Vue 3, JavaScript, Tailwind CSS, Google Apps Script  
+### 🧭 [Jmail Job-Search Workflow Prototype](https://github.com/Xurm1k/Jmail)
+An in-progress guided setup prototype for a Google Apps Script job-search workflow. The public setup page is not yet connected to a deployed shared Google Web App; the current email-classification behavior also needs safer review and recovery before wider use.  
+**Tools:** HTML, CSS, JavaScript, Google Apps Script, Gemini API  
 [Read the case study](https://github.com/Xurm1k/Jmail/blob/main/PORTFOLIO_CASE_STUDY.md)
 
 ---
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/o-kurmoiartsev/) | Email: `kurmoyarcev [at] gmail.com`
+I’m interested in Operations Analytics, Customer Operations, BI/reporting roles and practical projects that improve operational reporting or reduce repetitive process work.
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/o-kurmoiartsev/)
